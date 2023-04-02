@@ -13,8 +13,8 @@ Database: [Kaggle link](https://www.kaggle.com/datasets/olistbr/brazilian-ecomme
 File: [Sentiment analysis outcome](https://docs.google.com/spreadsheets/d/1PM8z0XTR8E4PfNQ0unA5oyUk3f9jreu-/edit?usp=sharing&ouid=116104952314905125549&rtpof=true&sd=true)<br>
 Tools: Spyder <br>
 Python libraries: Pandas, Vader, ntlk <br>
-💹Dashboard Preview:
-![image](https://user-images.githubusercontent.com/128320153/229383544-ccf92016-107c-4d8e-87d8-ff6d98bc8be8.png)
+💹Dashboard Preview(Positive review wordcloud):
+![Positive](https://user-images.githubusercontent.com/128320153/229383544-ccf92016-107c-4d8e-87d8-ff6d98bc8be8.png)
 
 
 
