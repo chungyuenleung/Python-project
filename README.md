@@ -11,6 +11,7 @@
 
 The analysis aimed to identify key patterns and relationships that can help inform business decisions and improve overall performance. <br>
 Database: AdventureWorks2019 <br>
+File: [sentiment analysis](https://docs.google.com/spreadsheets/d/1PM8z0XTR8E4PfNQ0unA5oyUk3f9jreu-/edit?usp=sharing&ouid=116104952314905125549&rtpof=true&sd=true)
 Tools: SSMS(T-SQL), Thonny <br>
 Python libraries: Pandas, Matplotlib <br
 
