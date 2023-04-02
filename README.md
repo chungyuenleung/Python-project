@@ -9,7 +9,7 @@
 4.Use wordcloud to extract the key word from positive, neutral & negative review with Power BI<br> 
 
 The sentiment analysis aimed to identify common words on each type of review, which can help identify root cause of unsatisfaction, inform business decisions and improve customer satisfaction. <br>
-Database: [Kaggle link] (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)<br>
+Database: [Kaggle link](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)<br>
 File: [Sentiment analysis outcome](https://docs.google.com/spreadsheets/d/1PM8z0XTR8E4PfNQ0unA5oyUk3f9jreu-/edit?usp=sharing&ouid=116104952314905125549&rtpof=true&sd=true)<br>
 Tools: Spyder <br>
 Python libraries: Pandas, Vadar <br>
