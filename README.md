@@ -1,6 +1,6 @@
 ### Python project
 
-### Olist E-commerce review Sentiment analysis
+### Olist E-commerce company review Sentiment analysis
 :open_file_folder:**Document :** [Python + PowerBI Project](https://github.com/chungyuenleung/Pythonproject/blob/main/52b43f36-34a5-47cd-8c4c-7bad975ba95d_Brazilian_e-commerce_company_Olist_performance_analysis.pdf) <br>
 **Description :** Welcome onboard, I am excited to introduce my latest python and Power BI project. In the python part of this project, the following step is taken to get a better understanding of customer satisfaction from the review they left after persuading:<br>
 1.Translate the review to English.<br>
