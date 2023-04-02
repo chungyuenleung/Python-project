@@ -3,7 +3,7 @@
 ### Olist E-commerce company review Sentiment analysis
 :open_file_folder:**Document :** [Python + PowerBI Project](https://github.com/chungyuenleung/Pythonproject/blob/main/52b43f36-34a5-47cd-8c4c-7bad975ba95d_Brazilian_e-commerce_company_Olist_performance_analysis.pdf) <br>
 **Description :** Welcome onboard, I am excited to introduce my latest python and Power BI project. In the python part of this project, the following step is taken to get a better understanding of customer satisfaction from the review they left after persuading:<br>
-1. Data cleaning, Translate the review to English.<br>
+1.Data cleaning, Translate the review to English.<br>
 2.Code in Python, Use vader and ntlk to conduct sentiment analysis with threshold(neg': -0.65, 'neu': 0.00, 'pos': 0.56)<br>
 3.Based on the polarity score, defined and classified review whether is postive, negative or neutral<br>
 4.Use wordcloud to extract the key word from positive, neutral & negative review with Power BI<br> 
